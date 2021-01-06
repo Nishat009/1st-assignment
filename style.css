@@ -117,41 +117,8 @@ h4{
   
   
 }
-.contact
-{
-    background-color: rgb(219, 210, 181);
-    height:350px;
 
-}
-.b2{
-    padding-top: 0%;
-    height: 70%;
-    width: 27%; 
-    float: left;
-    margin:35px;
-    padding: 5px;
-    border-radius: 10px;
-    background-color: rgb(250, 249, 246);
-    text-align: center;
-    box-shadow: 15px 15px 50px rgb(146, 113, 138);
-    
-}
 
-.b2 h4{
-    text-align: left;
-    font-weight: 600;
-    font-size: 20px;
-    color: rgb(138, 156, 70);
-}
-.black{
-    text-align: left;
-    font-size: 40px;
-    color: rgb(131, 89, 131);
-}
-.b2 p{
-    color: peru;
-    font-weight: 500;
-}
 .icon{
     padding-top: 100px;
     display: block;
