@@ -1,0 +1,199 @@
+
+body{
+    
+    margin-top: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bar{
+    height: 20px;
+}
+.bar ul{
+    text-align: right;
+}
+.bar li{
+    display: inline-block;
+    padding:15px 12px 10px 10px;
+    margin:12px;
+
+}
+
+.bar ul
+{
+    font-weight: 600;
+}
+h1{
+    font-size: 30px;
+    margin-bottom: 0%;
+}
+h2{
+    margin-top: 0%;
+    font-size: 30px;
+}
+.highlight
+{
+    color: orange;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half img{
+    margin-top: 10px;
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link_button
+{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, salmon, rgb(201, 116, 101));
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-weight: 700;
+    color: white;
+}
+
+h4{
+    text-align: center;
+    font-size: 40px;
+}
+.box
+{
+    padding-top: 0%;
+    background-color: rgb(231, 214, 181);
+    height: 500px;
+}
+.b1{
+    height: 90%;
+    width: 27%; 
+    float: left;
+    margin:35px;
+    padding: 5px;
+    border-radius: 15px;
+    background-color: rgb(224, 145, 145);
+    text-align: center;
+    box-shadow: 15px 15px 50px rgb(139, 115, 115);
+    
+    
+
+}
+.img1{
+    width: 100%;
+}
+.box2{
+    background-image: url("images/back.png");
+    height: 30px;
+    background-size: 80% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+#para
+{
+    width: 300px;
+    font-size:40px;
+    color: white;
+    margin-left: 170px;
+    display: block;
+    float: left;
+    text-align: center;
+
+    
+}
+
+.chat{
+    width:350px;
+    margin-top: 120px;
+    margin-left: 150px;
+    display: block;
+    padding-left: 100px;
+    float:right;
+  
+  
+}
+.contact
+{
+    background-color: rgb(219, 210, 181);
+    height:350px;
+
+}
+.b2{
+    padding-top: 0%;
+    height: 70%;
+    width: 27%; 
+    float: left;
+    margin:35px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: rgb(250, 249, 246);
+    text-align: center;
+    box-shadow: 15px 15px 50px rgb(146, 113, 138);
+    
+}
+
+.b2 h4{
+    text-align: left;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(138, 156, 70);
+}
+.black{
+    text-align: left;
+    font-size: 40px;
+    color: rgb(131, 89, 131);
+}
+.b2 p{
+    color: peru;
+    font-weight: 500;
+}
+.icon{
+    padding-top: 100px;
+    display: block;
+    padding-left: 500px;
+    padding-bottom: 0%;
+    height: 120px;
+}
+.foot{
+    color: teal;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 0%;
+}
+.extra{
+    background-color: rgb(228, 149, 228);
+    margin-top: 100px;
+    height: 350px;
+}
+.b-2
+{
+    padding-top: 0% ;
+    width:14%;
+    height: 100%;
+    margin-left: 10px;
+    float:left;
+    padding-left: 25px;
+    border-radius: 10px;
+    background-color: rgb(239, 222, 247);
+    text-align: left;
+    color: tomato;
+    
+}
+.extra_1st
+{
+    width: 40%;
+    float: left;
+    margin-left: 1%;
+    padding-left: 2%;
+    color: rgb(68, 45, 3);
+}
+.extra_2nd h2
+{
+text-align: center;
+color: rgb(78, 14, 78);
+}
